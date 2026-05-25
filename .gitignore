@@ -37,6 +37,11 @@ dist/
 next-env.d.ts
 
 # ========================
+# Agent files (Antigravity IDE workspace)
+# ========================
+.agent/
+
+# ========================
 # Logs
 # ========================
 npm-debug.log*
